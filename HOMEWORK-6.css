@@ -1,0 +1,157 @@
+@font-face {
+    font-family: FiraGO;
+    src: url('FiraGO-Bold.woff') ;}
+
+
+
+  .h1 {   position: absolute;
+width: 191px;
+height: 43px;
+left: 328px;
+top: 92px;
+font-family: 'FiraGO';
+font-style: normal;
+font-weight: 700;
+font-size: 26px;
+line-height: 31px;
+color: #000000;
+ margin-top: 0;
+ margin-bottom: 15px;
+ box-sizing: border-box;
+ display: flex;
+ }
+
+
+
+ body {
+    background:  #FDFDFD;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    height: 100vh;
+    }
+.body3{background: #FFFFFF;
+    border: 1px solid #F2F2F2;
+    border-radius: 10px;
+    width: 718px;
+
+    padding: 40px  51px 24px 47px;
+}
+
+.title_ label {
+ display: block;
+ font-family: 'FiraGO';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 19px;
+color: #000000;
+margin-bottom: 5px;
+
+
+}
+.title_ input {
+    font-family: 'FiraGO';
+background: #FFFFFF;
+border: 1px solid #E5E5E5;
+border-radius: 10px;
+width: 616px;
+
+height: 12px;
+
+padding-top: 18px;
+padding-left: 18px;
+padding-right: 18px;
+padding-bottom: 18px;
+}
+ 
+
+.aboutyou input {
+background: #FFFFFF;
+border: 1px solid #E5E5E5;
+border-radius: 10px;
+
+width: 616px;
+
+height: 80px;
+font-family: 'FiraGO';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+
+color: #E7E7E7;
+padding-top: 18px;
+padding-left: 18px;
+padding-right: 18px;
+padding-bottom: 18px;
+
+}
+.aboutyou label {
+    display: block;
+
+    
+    font-weight: 700;
+font-size: 16px;
+line-height: 19px;
+    color: #000000;
+    margin-bottom: 5px;
+    ;
+}
+.class {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 47px;
+border-radius: 10px;
+position: absolute;
+width: 205px;
+height: 47px;
+left: 743px;
+top: 729px;
+
+background: #FFDD04;}
+
+.btn{background: #FFDD04;
+    border-radius: 10px;
+    width: 205px;
+    height: 47px;
+   
+    border: none;
+   
+    font-family: FiraGO-Regular;
+    font-style: normal;
+    font-weight: 400px;
+    font-size: 16px;
+    line-height: 15px;
+    margin-bottom: 24px;
+   
+    margin-top: 13px;
+    margin-left: 0px;}
+
+
+
+
+#country{ 
+    background: #FFFFFF;
+    border: 1px solid #E5E5E5;
+    border-radius: 10px;
+    width: 616px;
+
+    padding-top: 10px;
+    padding-left: 18px;
+    padding-bottom: 10px;
+    width: 651px;
+    height: 50px;
+    left: 332px;
+    top: 331px;
+    font-family: 'FiraGO';
+    font-style: normal;
+    font-weight: 400px;
+    font-size: 16px;
+    line-height: 19px;
+    color:#E7E7E7;
+}
+
+ 
